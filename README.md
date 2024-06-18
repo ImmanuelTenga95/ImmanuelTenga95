@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Immanuel Tenga Ntjamba 
-- 👀 I’m interested a Web Developer 
+- 👀 I’m a Software Developer 
 - 🌱 I’m currently working for Nikkle.io
 - 💞️ I’m looking to collaborate on any Web Development projects that will help me learn and grow.
 - 📫 You can reach me on my mail: intjambatenga@gmail.com 
